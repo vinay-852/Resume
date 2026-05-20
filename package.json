@@ -1,0 +1,11 @@
+{
+  "name": "resume-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "resume": "node generate_resume.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
